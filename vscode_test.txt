@@ -1,0 +1,1 @@
+Checking "git commit" after vscode config using terminal.
